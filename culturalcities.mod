@@ -1,0 +1,20 @@
+name="Cultural Cities Remix"
+path="mod/culturalcities"
+dependencies={
+	"A Game of Thrones"
+	"CK2Plus"
+	"Elder Kings"
+	"Elder Kings Dev"
+	"Elder Kings 26-09-2020"
+	"HIP - Historical Immersion Project"
+	"Lux Invicta"
+	"Lux Invicta v0.6K19"
+	"Tianxia: Silk Road Expansion"
+	"The Winter King"
+	"Western Europe 410-962 - The Winter King"
+	"When the World Stopped Making Sense"
+	"Medieval Trade Routes (Vanilla)"
+	"Medieval Trade Routes (HIP map)"
+}
+tags={ Graphics }
+picture="ccscreen1.jpg"

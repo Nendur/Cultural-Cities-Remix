@@ -1,0 +1,338 @@
+andal = {
+	graphical_cultures = { occitangfx westerngfx }
+
+	riverlander = {
+		graphical_cultures = { riverlandergfx englishgfx }
+	}
+	westerman = {
+		graphical_cultures = { westermangfx frankishgfx englishgfx }
+	}
+	valeman = {
+		graphical_cultures = { valemangfx normangfx germangfx }
+	}
+	crownlander = {
+		graphical_cultures = { crownlandergfx occitangfx frankishgfx englishgfx }
+	}
+	stormlander = {
+		graphical_cultures = { stormlandergfx germangfx }
+	}
+	reachman = {
+		graphical_cultures = { reachmangfx italiangfx southerngfx }
+		unit_graphical_cultures = { reachmangfx southerngfx }
+	}
+	sisterman = {
+		graphical_cultures = { sistermangfx }
+	}
+	old_andal = {
+		graphical_cultures = { valemangfx dutchgfx germangfx }
+	}
+	dornish_andal = {
+		graphical_cultures = { dornishgfx italiangfx southerngfx }
+		unit_graphical_cultures = { reachmangfx southerngfx }
+	}
+	northman_andal = {
+		graphical_cultures = { valemangfx }
+	}
+}
+
+dornish = {
+	graphical_cultures = { dornishgfx arabicgfx muslimgfx }
+
+	stone_dornish = {
+		graphical_cultures = { stonedornishgfx levantinegfx andalusiangfx }
+	}
+	sand_dornish = {
+		graphical_cultures = { sanddornishgfx levantinegfx andalusiangfx }
+	}
+	salt_dornish = {
+		graphical_cultures = { saltdornishgfx levantinegfx andalusiangfx }
+	}
+	rhoynar = {
+		graphical_cultures = { saltdornishgfx berbergfx }
+	}
+}
+
+first_men = {
+	graphical_cultures = { celticgfx }
+
+	northman = {
+		graphical_cultures = { northmangfx bretongfx }
+	}
+	hill_clansman = {
+		graphical_cultures = { northmangfx freefolkgfx }
+	}
+	crannogman = {
+		graphical_cultures = { northmangfx freefolkgfx }
+	}
+	half_southron = {
+		graphical_cultures = { halfsouthrongfx westerngfx }
+	}
+	crackclawmen = {
+		graphical_cultures = { firstmangfx northmangfx pomeraniangfx }
+	}
+	moon_clansman = {
+		graphical_cultures = { freefolkgfx balticgfx easterngfx }
+	}
+	skagosi = {
+		graphical_cultures = { freefolkgfx }
+	}
+	old_first_man = {
+		graphical_cultures = { firstmangfx northmangfx pomeraniangfx freefolkgfx }
+	}
+}
+
+free_folk = {
+	graphical_cultures = { freefolkgfx norsegfx easterngfx }
+
+	wildling = {
+		graphical_cultures = { freefolkgfx }
+	}
+	thenn = {
+		graphical_cultures = { thenngfx finnishholygfx }
+	}
+	frozen_shore = {
+		graphical_cultures = { freefolkgfx }
+	}
+	hornfoot = {
+		graphical_cultures = { freefolkgfx }
+	}
+	cannibal_clan = {
+		graphical_cultures = { freefolkgfx }
+	}
+	nightrunner = {
+		graphical_cultures = { freefolkgfx }
+	}
+}
+
+iron_isles_culture = {
+	graphical_cultures = { pagangfx saxongfx norsegfx westerngfx }
+}
+
+valyrian = {
+	graphical_cultures = { valyriangfx byzantinegfx republicsgfx westerngfx }
+	unit_graphical_cultures = { valyriangfx italiangfx southerngfx }
+
+	eastern_valyrian = {
+		graphical_cultures = { westvalyriangfx romangfx }
+	}
+	mantaryan = {
+		graphical_cultures = { westvalyriangfx romangfx }
+	}
+	tolosi = {
+		graphical_cultures = { westvalyriangfx romangfx }
+	}
+	elyrian = {
+		graphical_cultures = { westvalyriangfx romangfx }
+	}
+}
+
+free_cities = {
+	graphical_cultures = { republicsgfx byzantinegfx westerngfx }
+
+	pentosi = {
+		graphical_cultures = { pentosigfx republicsgfx croatsouthslavicgfx easterngfx }
+		unit_graphical_cultures = { byzantinegfx }
+	}
+	braavosi = {
+		graphical_cultures = { braavosigfx byzantinegfx westerngfx }
+	}
+	lysene = {
+		graphical_cultures = { lysenegfx }
+	}
+	qohorik = {
+		graphical_cultures = { freecitiesgfx easternslavicgfx }
+	}
+	norvosi = {
+		graphical_cultures = { norvosigfx orthodoxholygfx easternslavicgfx }
+	}
+	myrman = {
+		graphical_cultures = { myrmangfx saltdornishgfx }
+		unit_graphical_cultures = { byzantinegfx }
+	}
+	tyroshi = {
+		graphical_cultures = { tyroshigfx republicsgfx croatsouthslavicgfx easterngfx }
+		unit_graphical_cultures = { byzantinegfx }
+	}
+	volantene = {
+		graphical_cultures = { freecitiesgfx }
+	}
+	lorathi = {
+		graphical_cultures = { pentosigfx magyargfx easterngfx westerngfx }
+		unit_graphical_cultures = { byzantinegfx }
+	}
+	essarian = {
+		graphical_cultures = { freecitiesgfx }
+	}
+	gogossosi = {
+		graphical_cultures = { freecitiesgfx }
+	}
+}
+
+ghiscari_group = {
+	graphical_cultures = { arabicgfx muslimgfx }
+}
+
+dothraki_group = {
+	graphical_cultures = { mongolgfx muslimgfx }
+
+	dothraki = {
+		graphical_cultures = { dothrakigfx }
+		unit_graphical_cultures = { mesoamericangfx southindiangfx indiangfx muslimgfx }
+	}
+	lhazareen = {
+		graphical_cultures = { lhazareengfx mongolgfx muslimgfx }
+		unit_graphical_cultures = { berbergfx muslimgfx }
+	}
+}
+
+hyrkoon_group = {
+	graphical_cultures = { bodpagfx turkishgfx muslimgfx }
+
+	hyrkooni = {
+		unit_graphical_cultures = { turkishgfx muslimgfx }
+	}
+	kayakayanayan = {
+		unit_graphical_cultures = { turkishgfx muslimgfx }
+	}
+	samyrianan = {
+		unit_graphical_cultures = { turkishgfx muslimgfx }
+	}
+	bayasabhadi = {
+		unit_graphical_cultures = { turkishgfx muslimgfx }
+	}
+}
+
+sarnor_group = {
+	graphical_cultures = { indiangfx muslimgfx }
+
+	sarnorian = {
+		graphical_cultures = { sarnorigfx easternslavicgfx ibbenesegfx }
+		unit_graphical_cultures = { indiangfx muslimgfx }
+	}
+	omberi = {
+		graphical_cultures = { sarnorigfx easternslavicgfx ibbenesegfx }
+		unit_graphical_cultures = { indiangfx muslimgfx }
+	}
+}
+
+moraqi_group = {
+	graphical_cultures = { mesoamericangfx }
+
+	farosi = {
+		graphical_cultures = { moraqigfx southyrosgfx turkishgfx indiangfx muslimgfx }
+		unit_graphical_cultures = { bodpagfx mongolgfx muslimgfx }
+	}
+	moraqi = {
+		graphical_cultures = { moraqigfx southyrosgfx turkishgfx  indiangfx muslimgfx }
+		unit_graphical_cultures = { bodpagfx mongolgfx muslimgfx }
+	}
+	zabhadi = {
+		graphical_cultures = { moraqigfx southyrosgfx turkishgfx  indiangfx muslimgfx }
+		unit_graphical_cultures = { bodpagfx mongolgfx muslimgfx }
+	}
+	vahari = {
+		graphical_cultures = { moraqigfx southyrosgfx turkishgfx  indiangfx muslimgfx }
+		unit_graphical_cultures = { bodpagfx mongolgfx muslimgfx }
+	}
+}
+
+jade_islands_group = {
+	graphical_cultures = { indiangfx muslimgfx }
+
+	lengi = {
+		graphical_cultures = { naathigfx southindiangfx }
+	}
+}
+
+asshai_group = {
+	graphical_cultures = { bodpagfx southyrosgfx turkishgfx arabicgfx muslimgfx }
+
+	asshai = {
+		graphical_cultures = { shadowlandergfx }
+		unit_graphical_cultures = { cumangfx turkishgfx arabicgfx muslimgfx }
+	}
+	shadowlander = {
+		graphical_cultures = { shadowlandergfx }
+		unit_graphical_cultures = { cumangfx turkishgfx arabicgfx muslimgfx }
+	}
+}
+
+further_east = {
+	graphical_cultures = { freefolkgfx pagangfx easterngfx }
+
+	grey_waste = {
+		graphical_cultures = { greywastegfx siberiangfx ugricgfx }
+	}
+}
+
+qarth_group = {
+	graphical_cultures = { ghiscarigfx persiangfx muslimgfx }
+}
+
+ibbenese_group = {
+	graphical_cultures = { easterngfx }
+
+	ibbenese = {
+		graphical_cultures = { ibbenesegfx pagangfx }
+		unit_graphical_cultures = { ibbenesegfx ugricgfx }
+	}
+}
+
+jogos_nhai_group = {
+	graphical_cultures = { mongolgfx muslimgfx }
+
+	jogos_nhai = {
+		graphical_cultures = { jogosgfx }
+	}
+}
+
+nghai_group = {
+	graphical_cultures = { bodpagfx mongolgfx muslimgfx }
+
+	nghai = {
+		graphical_cultures = { nghaigfx }
+	}
+}
+
+islander_group = {
+	islander = {
+		graphical_cultures = { islandergfx pagangfx pomeraniangfx mesoamericangfx easterngfx }
+	}
+}
+
+summer_islands = {
+	graphical_cultures = { africangfx mesoamericangfx indiangfx muslimgfx }
+
+	summer_islander = {
+		graphical_cultures = { southyrosgfx }
+	}
+}
+
+sothoryos_islands = {
+	graphical_cultures = { africangfx southyrosgfx muslimgfx }
+
+	basilisk_islander = {
+		graphical_cultures = { westafricangfx }
+	}
+	brindlemen = {
+		graphical_cultures = { brindlegfx aztecholygfx }
+	}
+}
+
+naath_group = {
+	graphical_cultures = { africangfx southyrosgfx muslimgfx }
+
+	naathi = {
+		graphical_cultures = { naathigfx }
+	}
+}
+
+old_races = {
+	giant = {
+		graphical_cultures = { giantgfx norseholygfx norsegfx }
+	}
+}
+
+winter_group = {
+	graphical_cultures = { whitewalkergfx pagangfx pomeraniangfx easternslavicgfx easterngfx }
+}
