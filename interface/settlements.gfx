@@ -3222,6 +3222,14 @@ objectTypes = {
 	}
 
 	EMFXActorType = {
+		name = "chinesegfx_castle_3"
+		actorfile = "gfx\models\Settlements\Indian\indian_city03.xac"
+		scale = 1.4f
+		use_animation = no
+		cull_distance = 550.0f
+	}
+
+	EMFXActorType = {
 		name = "chinesegfx_temple_1"
 		actorfile = "gfx\models\Settlements\Indian\indian_church_02.xac"
 		scale = 1.3f
